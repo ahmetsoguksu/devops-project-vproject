@@ -6,6 +6,7 @@
 <p><a href="https://github.com/devopshydclub/vprofile-project">Click for the trainer's repo.</a>
 
 # ports
+<p>mariadb    tcp   3306
 <p>memcached 	tcp 	11211
 <p>memcached 	udp 	11111
 <p>
