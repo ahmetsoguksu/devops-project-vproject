@@ -2,8 +2,8 @@
 <p>Vagrant for automation Oracle VirtualBox + bash scripts and commands + NGINX, Apache Tomcat, Memcached, RabbitMQ, MySQL
 
 # source
-<p>This project was created by following the course [here](https://www.udemy.com/course/devopsprojects/). 
-<p>[Click for the trainer's repo.](https://github.com/devopshydclub/vprofile-project)
+<p>This project was created by following the course <a href="https://www.udemy.com/course/devopsprojects/">here</a>. 
+<p><a href="https://github.com/devopshydclub/vprofile-project">Click for the trainer's repo.</a>
 
 # ports
 <p>memcached 	tcp 	11211
