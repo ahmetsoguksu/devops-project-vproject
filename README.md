@@ -1,7 +1,7 @@
 # devops-project-vproject
 <p>Vagrant for automation Oracle VirtualBox + bash scripts and commands + NGINX, Apache Tomcat, Memcached, RabbitMQ, MySQL
 
-# source
+# resource
 <p>This project was created by following the course <a href="https://www.udemy.com/course/devopsprojects/">here</a>. 
 <p><a href="https://github.com/devopshydclub/vprofile-project">Click for the trainer's repo.</a>
 
@@ -10,6 +10,6 @@
 <p>memcached 	tcp 	11211
 <p>memcached 	udp 	11111
 <p>
-<p>rabbitmq 	tcp 	25672
+<p>rabbitmq 	tcp 	5672
 <p>
 <p>tomcat 		tcp 	8080
