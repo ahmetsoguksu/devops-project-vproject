@@ -8,9 +8,9 @@
 
 <h2>Instances (VMs)</h2>
 
-| Name  | OS             | Service   | Version | Private IP |
-|:-----:|:--------------:|:---------:|:-------:|:----------:|
-| db01  | CentOS 7       | MariaDB   |         |            |
-| rm01  | CentOS 7       | RabbitMQ  |         |            |
-| mc01  | CentOS 7       | Memcached |         |            |
-| app01 | Ubuntu 18.04   | Tomcat    |         |            |  
+| Name           | OS             | Service   | Version | Private IP |
+|:--------------:|:--------------:|:---------:|:-------:|:----------:|
+| vprofile-db01  | CentOS 7       | MariaDB   |         |            |
+| vprofile-rm01  | CentOS 7       | RabbitMQ  |         |            |
+| vprofile-mc01  | CentOS 7       | Memcached |         |            |
+| vprofile-app01 | Ubuntu 18.04   | Tomcat    |         |            |  
